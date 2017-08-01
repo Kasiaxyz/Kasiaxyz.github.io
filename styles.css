@@ -39,13 +39,13 @@ body {
 
 header a {
   color: red;
+	font-size: 50px;
 }
 
 header {
   padding-top: 30px;
   font-family: 'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two';
   padding-bottom: 150px;
- font-size: 50px;
 }
 
 .right {
