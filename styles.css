@@ -5,9 +5,9 @@ body {
   background-size: cover;
   */
 }
-
 header {
   padding-top: 30px;
+  font-family: 'Shadows Into Light Two';
 }
 p {
   padding-left: 30px;
