@@ -30,7 +30,7 @@ time, mark, audio, video {
 }
 /*'Just Another Hand'*/
 body {
-  font-family:'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two', 'The Girl Next Door', 'Droid Sans', "Helvetica", sans-serif;
+  font-family: 'Patrick Hand', 'Shadows Into Light Two', 'The Girl Next Door', 'Droid Sans', "Helvetica", sans-serif;
     /* background-image: url("zigi.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,12 +40,12 @@ body {
 
 header a {
   color: black;
-	font-size: 36px;
+	font-size: 20px;
 }
 
 header {
   padding-top: 30px;
-  font-family:'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two';
+  font-family: 'Patrick Hand', 'Shadows Into Light Two';
   padding-bottom: 150px;
 }
 
