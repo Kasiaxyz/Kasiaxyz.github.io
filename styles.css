@@ -34,7 +34,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   */
-  font-size: 36px;
+  font-size: 50px;
 }
 
 header a {
@@ -45,7 +45,7 @@ header {
   padding-top: 30px;
   font-family: 'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two';
   padding-bottom: 150px;
- font-size: 36px;
+ font-size: 50px;
 }
 
 .right {
