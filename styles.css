@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 border: 0;
 	color: black;
-	font-size: 30px;
+	font-size: 36px;
 vertical-align: baseline;
 text-decoration: none;
 outline: 0;
@@ -35,12 +35,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   */
-  font-size: 30px;
+  font-size: 36px;
 }
 
 header a {
   color: black;
-	font-size: 30px;
+	font-size: 36px;
 }
 
 header {
@@ -54,7 +54,7 @@ header {
 }
 p {
   padding-left: 30px;
-  font-size: 30px;
+  font-size: 36px;
   color: black;
 	padding-bottom: 20px;
 }
