@@ -1,19 +1,20 @@
 body {
-  font-family: 'Patrick Hand', 'Shadows Into Light Two', 'The Girl Next Door', 'Droid Sans', "Helvetica", sans-serif;
+  font-family: 'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two', 'The Girl Next Door', 'Droid Sans', "Helvetica", sans-serif;
     /* background-image: url("zigi.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   */
+  font-size: 36px;
 }
 header {
   padding-top: 30px;
   font-family: 'Just Another Hand', 'Patrick Hand', 'Shadows Into Light Two';
   padding-bottom: 150px;
- font-size: 24px;
+ font-size: 36px;
 }
 
 .right {
-  padding-top: 40px;
+  padding-top: 35px;
 }
 p {
   padding-left: 30px;
