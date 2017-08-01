@@ -9,21 +9,14 @@ body {
 header {
   padding-top: 30px;
 }
-
-.kasia {
-  padding-left: 300px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.kasia1 {
-  padding-left: 300px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
 p {
   padding-left: 30px;
   font-size: 20px;
 }
+
+
+
+
 @media (min-width: 768px) {
   .navbar-nav {
     width: 100%;
