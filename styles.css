@@ -3,7 +3,6 @@ margin: 0;
 padding: 0;
 border: 0;
 	color: black;
-	font-size: 36px;
 vertical-align: baseline;
 text-decoration: none;
 outline: 0;
@@ -35,7 +34,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   */
-  font-size: 36px;
 }
 
 header a {
