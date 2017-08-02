@@ -71,7 +71,7 @@
 </div>
 	  
        <p id= "second">ilustracje</p>
-	   <div class="autoplay">
+	   <div class="variable-width">
 		<div><img src= bajka2.jpg></div>  
 		   <div><img src= drzewo1.jpg></div>
 		   <div><img src= kkrajobraz3.jpg></div>
@@ -128,6 +128,14 @@
 		    slidesToShow: 2,
 		    slidesToScroll: 2
 	    });
+	    $('.variable-width').slick({
+  dots: true,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 2,
+  centerMode: true,
+  variableWidth: true
+});
     });
   </script>
   </body>
