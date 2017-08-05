@@ -38,6 +38,12 @@ header {
 	width: 100vw;
 }
 }
+@media (max-width: 1400px) {
+.single-item img {
+	width: 50vw;
+	}
+}
+
 @media (max-width: 710px) {
 .single-item img {
 	width: 100vw;
