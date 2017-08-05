@@ -23,6 +23,12 @@ header {
 	width: 33vw;
 }
 }
+@media (max-width: 900px) {
+.autoplay img {
+	width: 50vw;
+}
+}
+
 .right {
   padding-top: 35px;
 }
