@@ -43,6 +43,11 @@ header {
 	width: 60vw;
 }
 }
+@media (max-width: 790px) {
+.sredniodlugi {
+	width: 80vw;
+}
+}
 @media (max-width: 1400px) {
 .single-item img {
 	width: 50vw;
