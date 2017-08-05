@@ -19,6 +19,10 @@ header {
   padding-bottom: 100px;
 }
 
+.autoplay img {
+	width: 33vw;
+}
+
 .right {
   padding-top: 35px;
 }
