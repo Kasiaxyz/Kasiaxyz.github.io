@@ -33,6 +33,12 @@ header {
 	width: 100vw;
 }
 }
+@media (max-width: 790px) {
+.variable-width img {
+	width: 100vw;
+}
+}
+
 .right {
   padding-top: 35px;
 }
