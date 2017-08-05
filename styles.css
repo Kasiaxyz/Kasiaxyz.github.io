@@ -37,6 +37,10 @@ header {
 .variable-width img {
 	width: 100vw;
 }
+	@media (max-width: 790px) {
+.dlugi {
+	width: 60vw;
+}
 }
 @media (max-width: 1400px) {
 .single-item img {
