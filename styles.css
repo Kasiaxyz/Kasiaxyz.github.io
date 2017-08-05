@@ -54,7 +54,11 @@ header {
 	width: 100vw;
 	}
 }
-
+@media (max-width: 995px) {
+.katarzynaleft {
+	width: 400px;
+	}
+}
 .right {
   padding-top: 35px;
 }
