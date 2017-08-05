@@ -18,6 +18,12 @@ header {
   font-family: 'Patrick Hand', 'Shadows Into Light Two';
   padding-bottom: 100px;
 }
+@media (max-width: 767px) {
+header {
+	padding-bottom: 20px;
+}
+}
+
 @media (max-width: 1370px) {
 .autoplay img {
 	width: 33vw;
