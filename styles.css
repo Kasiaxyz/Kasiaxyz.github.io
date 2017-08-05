@@ -38,6 +38,11 @@ header {
 	width: 100vw;
 }
 }
+@media (max-width: 710px) {
+.single-item img {
+	width: 100vw;
+	}
+}
 
 .right {
   padding-top: 35px;
