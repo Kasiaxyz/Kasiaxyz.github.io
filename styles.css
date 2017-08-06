@@ -14,17 +14,17 @@ header {
 }
 
 @media (max-width: 1200px) {
-header {
+.pro {
 	font-size: 16px;
 }
 }
 @media (max-width: 990px) {
-header {
+.pro {
 	font-size: 14px;
 }
 }
 @media (max-width: 767px) {
-header {
+.pro {
 	padding-bottom: 20px;
 	font-size: 22px;
 }
