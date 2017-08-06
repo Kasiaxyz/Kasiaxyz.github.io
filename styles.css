@@ -29,10 +29,14 @@ header {
 .pro {
 	padding-bottom: 20px;
 	font-size: 22px;
-},
+}
+}
+	@media (max-width: 767px) {
 	header {
 		padding-bottom: 0px;
-	},
+	}
+}
+@media (max-width: 767px) {
 	.right {
   padding-top: 5px;
 }
