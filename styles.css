@@ -28,6 +28,9 @@ header {
 	padding-bottom: 20px;
 	font-size: 22px;
 }
+	header {
+		padding-bottom: 0px;
+	}
 }
 
 @media (max-width: 1370px) {
