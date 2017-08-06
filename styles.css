@@ -54,7 +54,7 @@ header {
 	width: 100vw;
 }
 }
-	@media (max-width: 790px) {
+@media (max-width: 790px) {
 .dlugi {
 	width: 60%;
 	width: 60vw;
