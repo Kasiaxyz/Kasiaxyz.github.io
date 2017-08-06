@@ -1,7 +1,9 @@
 body {
   font-family: 'Patrick Hand', 'Helvetica', sans-serif; 
 }
-
+.right {
+  padding-top: 35px;
+}
 .pro {
   color: black;
 	font-size: 22px;
@@ -27,10 +29,13 @@ header {
 .pro {
 	padding-bottom: 20px;
 	font-size: 22px;
-}
+},
 	header {
 		padding-bottom: 0px;
-	}
+	},
+	.right {
+  padding-top: 5px;
+}
 }
 
 @media (max-width: 1370px) {
@@ -87,9 +92,7 @@ header {
 	width: 400px;
 	}
 }
-.right {
-  padding-top: 35px;
-}
+
 .middle {
   padding-left: 30px;
   font-size: 36px;
